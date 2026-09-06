@@ -1,0 +1,6 @@
+{
+  "name": "AI-Based Personal Career & Skill Gap Analyzer",
+  "description": "A professional CSE mobile application that analyzes student profiles and resumes, identifies career skill gaps, generates custom learning roadmaps, and tracks career readiness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
